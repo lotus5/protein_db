@@ -1,0 +1,56 @@
+
+body {
+ 	font-family: Arial, Helvetica, sans-serif;
+} 
+
+fieldset {
+    border-radius: .75em;
+}
+
+legend {
+    color: #A0522D;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.smalltxtbox { 
+	width: 2rem; 
+} 
+
+.bttn {
+    font-size: 15px;
+}
+
+.ahw {
+    width: 3rem;
+    height: 1.5rem;
+}
+
+#heightInches {
+    width: 4rem;
+}
+
+#weightAlign {
+    margin-left: 2rem;
+}
+
+#keyword {
+    width: 18rem;
+}
+
+#age {
+    margin-right: 2rem;
+}
+
+#footer {
+    margin-top: -0.5rem;
+    margin-bottom: -0.5rem;
+    text-align: center;
+}
+
+.textBox {
+    height: 1.5rem;
+}
